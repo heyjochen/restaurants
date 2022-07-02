@@ -232,3 +232,11 @@ button:focus {
   bottom: 2em;
   right: 2em;
 }
+
+.mde-preview-content {
+  color: #3aafb9;
+}
+
+.mde-preview .mde-preview-content h1 {
+  border-bottom: 1px solid #3aafb9;
+}
