@@ -226,3 +226,9 @@ button:focus {
 .mde-header .svg-icon {
   color: #3aafb9;
 }
+
+.markdown {
+  position: absolute;
+  bottom: 2em;
+  right: 2em;
+}
