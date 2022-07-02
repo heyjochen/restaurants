@@ -1,6 +1,6 @@
-# Posters: <a href="#" target="_blank">Track your restaurant visit</a>
+# Posters: <a href="https://restaurants-note.netlify.app/" target="_blank">Track your restaurant visit</a>
 
-<a href="" target="_blank"><img src="#"/></a>
+<a href="https://restaurants-note.netlify.app/" target="_blank"><img src="https://github.com/heyjochen/restaurants/blob/main/README.png?raw=true"/></a>
 
 An app to store notes about recent Restaurant visits (markdown available) built in React
 
