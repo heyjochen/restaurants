@@ -1,8 +1,8 @@
-# Posters: <a href="#" target="_blank">Create your Poster here</a>
+# Posters: <a href="#" target="_blank">Track your restaurant visit</a>
 
 <a href="" target="_blank"><img src="#"/></a>
 
-Store notes about recent Restaurant visits (markdown available)
+An app to store notes about recent Restaurant visits (markdown available) built in React
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=flat-square&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=flat-square&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=flat-square&logo=javascript)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=3c7f5d&style=flat-square&logo=react)
 
